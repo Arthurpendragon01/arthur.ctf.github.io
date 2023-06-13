@@ -1,0 +1,29 @@
+* {
+	font-family: serif, 'Arial Narrow Bold', sans-serif, Helvetica, sans-serif;
+}
+
+body {
+	background-color: white;
+	color: black;
+}
+
+/* Styling Flexbox */
+#flexbox-demo-bg {
+	background-color: rgba(0, 119, 128, 0.582);
+	color: white;
+}
+
+.flex-container {
+	display: flex;
+	flex-wrap: nowrap;
+	background-color: rgba(255, 192, 216, 0);
+}
+
+.flex-item {
+	background-color: rgba(0, 255, 157, 0.575);
+	width: 400px;
+	margin: 10px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 30px;
+}
