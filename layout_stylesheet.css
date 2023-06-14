@@ -3,24 +3,24 @@
 }
 
 body {
-	background-color: white;
-	color: black;
+	background-color: rgba(72, 206, 67, 0.993);
+	color: rgb(179, 44, 44);
 }
 
 /* Styling Flexbox */
 #flexbox-demo-bg {
-	background-color: rgba(0, 119, 128, 0.582);
-	color: white;
+	background-color: rgba(22, 143, 150, 0.089);
+	color: rgba(207, 204, 16, 0.575);
 }
 
 .flex-container {
 	display: flex;
 	flex-wrap: nowrap;
-	background-color: rgba(255, 192, 216, 0);
+	background-color: rgba(172, 81, 116, 0);
 }
 
 .flex-item {
-	background-color: rgba(0, 255, 157, 0.575);
+	background-color: rgba(231, 9, 120, 0.849);
 	width: 400px;
 	margin: 10px;
 	text-align: center;
